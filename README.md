@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRIYABRATA-NAYAK
 - 👀 I’m interested in software jobs
-- 🌱 I’m currently learning MCA in UTKAL UNIVERSITY
+- 🌱 I’m currently learning M.Tech in CSE in kiit University 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me priyabratanayak.cs@gmail.com
 
